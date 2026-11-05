@@ -12,3 +12,24 @@ profile.svg
 
 # Time trace
 trace.json
+
+# Secondary guard only. Never copy private project folders into this directory.
+.env
+.env.*
+*.pem
+*.key
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.blend
+*.blend1
+*.fbx
+*.obj
+*.glb
+*.gltf
+*.zip
+*.rar
+*.7z
+*.log
+PRIVATE-*
